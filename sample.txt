@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-Hello Rakshith,
-
-Welcome to Git 
-=======
-learning Git 
-and Git methods
->>>>>>> 3be488c9952f04728c8260d3d2991d260c03fdb3
